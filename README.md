@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Mo Figueroa 
 - 👀 I do Platform Engineering, DevOps, DevSecOps and all things Automation.
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on Open Source, Blockchain, ML and IT Automation projects.
