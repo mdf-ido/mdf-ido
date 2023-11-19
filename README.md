@@ -1,6 +1,6 @@
 - 👀 I do Platform Engineering, DevOps, DevSecOps and all things Automation.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on Open Source, Blockchain, ML and IT Automation projects.
+- 🌱 I mostly use Python and Django. Also experienced in Windows environments with Powershell, I’m currently learning Go.
+- 💞️ I’m looking to collaborate on Open Source, ML / AI and Cloud Architecture Projects. 
 - 📫 How to reach me https://www.ingeniumcode.io
 
 <!---
