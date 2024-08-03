@@ -1,5 +1,5 @@
-- 👀 I do Platform Engineering, DevOps, DevSecOps and all things Automation.
-- 🌱 I mostly use Python and Django. Also experienced in Windows environments with Powershell, I’m currently learning Go.
+- 👀 I do Platform Engineering, DevOps, DevSecOps and all things Automation that leverage AI.
+- 🌱 I mostly use Python and Django. Also experienced with Linux and Windows environments with Powershell.
 - 💞️ I’m looking to collaborate on Open Source, ML / AI and Cloud Architecture Projects. 
 - 📫 How to reach me https://www.ingeniumcode.io
 
