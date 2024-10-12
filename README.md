@@ -42,12 +42,13 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23FF6F61.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%2300ADEF.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%2300ADEF.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![k8sgpt](https://img.shields.io/badge/k8sgpt-%2300ADEF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🔥 GitHub Stats
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdf-ido&theme=dark)](https://github.com/mdf-ido)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdf-ido&layout=compact&theme=dark)](https://github.com/mdf-ido)
 
 </div>
@@ -59,10 +60,12 @@ My home lab setup where I experiment with new technologies, automate workflows, 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesdfigueroa/)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ingeniumcode.io)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thecodelab)
 
 ---
 
 💡 *"The best way to predict the future is to invent it."* - Alan Kay
+💡 *"Why join the Navy when you can be a pirate."* - Steve Jobs
+💡 *“Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.”* - Donald Knuth
