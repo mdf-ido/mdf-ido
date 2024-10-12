@@ -4,9 +4,9 @@
 
 I'm an experienced Platform / Software Engineer with a passion for building robust, scalable applications. My expertise lies in:
 
-- 🚀 Backend Development with Python & Django
-- ☁️ Cloud Architecture (AWS, Azure, GCP)
 - 🛠 Platform Engineering & DevSecOps Practices
+- ☁️ Cloud Architecture (AWS, Azure, GCP)
+- 🚀 Backend Development with Python & Django
 - 🧠 AI Engineering with Azure AI Services and Python
 - 🤖 Automation & System Optimization
 
