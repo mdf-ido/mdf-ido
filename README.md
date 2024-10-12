@@ -13,7 +13,7 @@ I am an experienced Platform / Software Engineer with a demonstrated history of 
     <br />
   </p>
 </div>
-![Alt text](/pics/devlab.png?raw=true "Platform")
+![Alt text](/pics/devlab.png?raw=true "Platform Engineer Lab")
 
 
 # 📚 Certifications:
