@@ -12,8 +12,14 @@ I'm an experienced Platform / Software Engineer with a passion for building robu
 
 I'm a lifelong learner, always seeking to expand my knowledge through hands-on experience, client projects, and my home lab. Let's build something amazing together!
 
-## 🏆 Certifications
+## 📫 Let's Connect
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesdfigueroa/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ingeniumcode.io)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thecodelab)
+</div>
 
+## 🏆 Certifications
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure AI Engineer Associate](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -52,17 +58,12 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdf-ido&layout=compact&theme=dark)](https://github.com/mdf-ido)
 
 </div>
+
 ## 🔬 Dev Lab: Learning by Doing
 
 ![Dev Lab Setup](/pics/devlab.png)
 
 My home lab setup where I experiment with new technologies, automate workflows, and push the boundaries of what's possible in software engineering.
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesdfigueroa/)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ingeniumcode.io)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thecodelab)
 
 ---
 
