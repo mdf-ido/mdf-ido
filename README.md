@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
-<p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdf-ido&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdf-ido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdf-ido&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdf-ido&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 # 💫 About Me:
 I am an experienced Platform / Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Python, Django, AWS, DevOps, DevSecOps, and Automation. I am passionate about backend development, I specialize in creating REST APIs and robust web applications with Django. With particular expertise in systems management and optimization, I build high-performance, scalable applications. I am a life-long learner and I am always looking for ways to improve my skills and knowledge through books, tutorials but most importantly through hands-on experience with clients or in my home lab. 😊
@@ -13,8 +13,8 @@ I am an experienced Platform / Software Engineer with a demonstrated history of 
     <br />
   </p>
 </div>
-![Alt text](/pics/devlab.png?raw=true "Platform Engineer Lab")
 
+![Alt text](/pics/devlab.png?raw=true "Platform Engineer Lab")
 
 # 📚 Certifications:
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -40,3 +40,5 @@ I am an experienced Platform / Software Engineer with a demonstrated history of 
 
 # 🖥️ Layer 1 - 4 Stack:
 ![NVIDIA GPUs](https://img.shields.io/badge/NVIDIA%20GPUs-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![HPE Baremetal Servers](https://img.shields.io/badge/HPE%20Baremetal%20Servers-0096D6?style=for-the-badge&logo=hewlett-packard&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white) ![Firewalla](https://img.shields.io/badge/Firewalla-%23FF4500?style=for-the-badge&logo=firewalla&logoColor=white)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
