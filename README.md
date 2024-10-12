@@ -10,14 +10,7 @@ I'm an experienced Platform / Software Engineer with a passion for building robu
 - 🧠 AI Engineering with Azure AI Services and Python
 - 🤖 Automation & System Optimization
 
-I'm a lifelong learner, always seeking to expand my knowledge through hands-on experience, client projects, and my home lab. Let's build something amazing together!
-
-## 📫 Let's Connect
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisesdfigueroa/)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ingeniumcode.io)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thecodelab)
-</div>
+I'm a lifelong learner, always seeking to expand my knowledge through hands-on experience, client projects, and my home lab. Let's build something amazing together! Check out my contact info below my profile pic.
 
 ## 🏆 Certifications
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
