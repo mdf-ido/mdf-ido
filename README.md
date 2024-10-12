@@ -6,16 +6,6 @@
 # 💫 About Me:
 I am an experienced Platform / Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Python, Django, AWS, DevOps, DevSecOps, and Automation. I am passionate about backend development, I specialize in creating REST APIs and robust web applications with Django. With particular expertise in systems management and optimization, I build high-performance, scalable applications. I am a life-long learner and I am always looking for ways to improve my skills and knowledge through books, tutorials but most importantly through hands-on experience with clients or in my home lab. 😊
 
-## Dev Lab:
-<br />
-  <p align="center">
-    Learning by doing and Doing by learning! 🚀
-    <br />
-  </p>
-</div>
-
-![Alt text](/pics/devlab.png?raw=true "Platform Engineer Lab")
-
 # 📚 Certifications:
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -27,6 +17,16 @@ I am an experienced Platform / Software Engineer with a demonstrated history of 
 ## 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thecodelab)  
 [![Webpage](https://img.shields.io/badge/webpage-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.ingeniumcode.io)
+
+## Dev Lab:
+<br />
+  <p align="center">
+    <h2> Learning by doing and Doing by learning! 🚀 </h2>
+    <br />
+  </p>
+</div>
+
+![Alt text](/pics/devlab.png?raw=true "Platform Engineer Lab")
 
 # 💻 Dev Stack:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HMTX](https://img.shields.io/badge/hmtx-%23000000.svg?style=for-the-badge&logo=hmtx&logoColor=white) 
