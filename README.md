@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Mo - Platform & Software Engineer
+# 👋 Hello, I'm Mo - Platform Architect
 
 ## 💫 About Me
 
-I'm an experienced Platform / Software Engineer with a passion for building robust, scalable applications. My expertise lies in:
+I'm an experienced Platform Engineer with a passion for building robust, scalable applications. My expertise lies in:
 
 - 🛠 Platform Engineering & DevSecOps Practices
 - ☁️ Cloud Architecture (AWS, Azure, GCP)
