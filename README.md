@@ -25,6 +25,9 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -36,12 +39,17 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-%23512BD4.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 
 ### AI Stack
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-%23FF6F61.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%2300ADEF.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-%2300ADEF.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![VLLM](https://img.shields.io/badge/VLLM-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![k8sgpt](https://img.shields.io/badge/k8sgpt-%2300ADEF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🔥 GitHub Stats
