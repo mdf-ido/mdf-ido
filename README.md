@@ -7,12 +7,13 @@ I'm an experienced Platform Engineer with a passion for building robust, scalabl
 - 🛠 Platform Engineering & DevSecOps Practices
 - ☁️ Cloud Architecture (AWS, Azure, GCP)
 - 🚀 Backend Development with Python & Django
-- 🧠 AI Engineering with Azure AI Services and Python
+- 🧠 AI Systems with GPU Compute for Inference, Data Science and MLOps
 - 🤖 Automation & System Optimization
 
 I'm a lifelong learner, always seeking to expand my knowledge through hands-on experience, client projects, and my home lab. Let's build something amazing together! Check out my contact info below my profile pic.
 
 ## 🏆 Certifications
+![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure DevOps Engineer Expert](https://img.shields.io/badge/Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure AI Engineer Associate](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
