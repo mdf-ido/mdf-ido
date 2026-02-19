@@ -52,6 +52,12 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ![VLLM](https://img.shields.io/badge/VLLM-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![k8sgpt](https://img.shields.io/badge/k8sgpt-%2300ADEF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-%23512BD4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23FF5A1F.svg?style=for-the-badge&logo=robot&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🔥 GitHub Stats
 <div align="center">
