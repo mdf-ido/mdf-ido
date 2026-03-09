@@ -8,7 +8,7 @@ I'm an experienced Platform Engineer with a passion for building robust, scalabl
 - ☁️ Cloud Architecture (AWS, Azure, GCP)
 - 🚀 Backend Development with Python & Django
 - 🧠 AI Systems with GPU Compute for Inference, Data Science and MLOps
-- 🤖 Automation & System Optimization
+- 🤖 Agentic AI & Automation in LegalTech, E-Learning and Pet Industry
 
 I'm a lifelong learner, always seeking to expand my knowledge through hands-on experience, client projects, and my home lab. Let's build something amazing together! Check out my contact info below my profile pic.
 
@@ -27,7 +27,6 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
