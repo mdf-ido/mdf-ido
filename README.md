@@ -60,7 +60,8 @@ I'm a lifelong learner, always seeking to expand my knowledge through hands-on e
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-%23000000.svg?style=for-the-badge&logo=terminal&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-%23FF6F00.svg?style=for-the-badge&logo=robot&logoColor=white)
-![Kagent](https://img.shields.io/badge/Kagent-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Moltbook](https://img.shields.io/badge/Moltbook-%23FF6F00.svg?style=for-the-badge&logo=book&logoColor=white)
 
 ## 🔥 GitHub Stats
 <div align="center">
